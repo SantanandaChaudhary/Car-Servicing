@@ -5,6 +5,14 @@
 }
 
 
+.active{
+  color: red;
+}
+a:hover:not(.active){
+  color:black;
+}
+
+
 
 
 .grid-Container{
